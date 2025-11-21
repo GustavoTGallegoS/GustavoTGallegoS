@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">Me chamo Gustavo, sou estudante de Engenharia da Computação no IFSP</p>
+<p align="center">Me chamo Gustavo, sou estudante de Engenharia da Computação no IFSP</p>
 
 ###
 
